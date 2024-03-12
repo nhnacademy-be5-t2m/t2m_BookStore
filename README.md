@@ -1,2 +1,2 @@
-# t2n_BookStore
-nhnacademy-be5-t2n-bookstore
+# t2m_BookStore
+nhnacademy-be5-t2m-bookstore
